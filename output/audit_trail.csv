@@ -1,8 +1,0 @@
-stage,row_count
-raw_rows,541909
-after_dedup,536641
-cleaned_sales,391150
-returns,9251
-non_product_txn,2406
-excluded_rows,133834
-sum_of_buckets,536641
