@@ -106,3 +106,7 @@ Built an RFM (Recency, Frequency, Monetary) feature table per customer, then clu
 ## Dataset
 
 UK-based online retailer transaction data, Dec 2010 – Dec 2011 (https://www.kaggle.com/datasets/carrie1/ecommerce-data).
+<img width="1200" height="750" alt="silhouette_scores" src="https://github.com/user-attachments/assets/7133afa5-a5ec-47b1-b873-767f0e3aeaa0" />
+<img width="1500" height="750" alt="monthly_revenue" src="https://github.com/user-attachments/assets/30820384-b77a-440b-aa45-d75736b3a5e2" />
+<img width="1350" height="1050" alt="cluster_scatter" src="https://github.com/user-attachments/assets/0de270a0-dd3a-418e-bffd-5516f2b6a8e7" />
+
